@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\textAdv\textAdv\bin\Debug\textAdv.exe.config
+C:\Users\Admin\source\repos\textAdv\textAdv\bin\Debug\textAdv.exe
+C:\Users\Admin\source\repos\textAdv\textAdv\bin\Debug\textAdv.pdb
+C:\Users\Admin\source\repos\textAdv\textAdv\obj\Debug\textAdv.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\textAdv\textAdv\obj\Debug\textAdv.exe
+C:\Users\Admin\source\repos\textAdv\textAdv\obj\Debug\textAdv.pdb
+C:\Users\Admin\source\repos\textAdv\textAdv\obj\Debug\textAdv.csprojAssemblyReference.cache
