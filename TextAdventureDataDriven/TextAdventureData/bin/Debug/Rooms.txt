@@ -1,0 +1,45 @@
+1
+The room is filled with filthy shoes and footwear.
+It is difficult walking through the mess.
+The room has only one exit to the East.
+--
+2
+*Squeeky sound of the door closing behind you* 
+The room has a distinct smell and is covered with cobwebs.
+You enter the room and you can see three doors to three 
+different rooms in the directions of north, east and south
+--
+3
+
+*Squeeky sound of the door closing behind you*
+The room has an old desk in one of the corners of the room
+You go to the desk and have a peekin the drawers and....
+Alas, it's empty!!!
+There is only one exit to the room, which will be heading North.
+--
+
+4
+
+*Squeeky sound of the door closing behind you*
+You enter the room and it is chaos. The furniture in the room is broken\n
+and has fungus growing on it
+here are rays of light entering the room through gaps in the ceiling
+You look around and see a ray of light bouncing from an object in the room
+Being very cautious, you approach the object and find it to be a Gold Coin
+HURRAY!!
+There is only one exit to the room, heading west.
+--
+
+5
+*Squeeky sound of the door closing behind you*
+Oops, the candle burned out. Now, you have to select the directions by trial
+and error to find the red door.
+--
+
+
+6
+
+Congratulations, you opened the red door. You are free.
+
+EXIT THE GAME
+--

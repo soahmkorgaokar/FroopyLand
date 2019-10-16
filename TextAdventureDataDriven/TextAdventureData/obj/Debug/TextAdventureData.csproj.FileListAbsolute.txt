@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\TextAdventureData\TextAdventureData\obj\Debug\TextAdventureData.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TextAdventureData\TextAdventureData\bin\Debug\TextAdventureData.exe.config
+C:\Users\Admin\source\repos\TextAdventureData\TextAdventureData\bin\Debug\TextAdventureData.exe
+C:\Users\Admin\source\repos\TextAdventureData\TextAdventureData\bin\Debug\TextAdventureData.pdb
+C:\Users\Admin\source\repos\TextAdventureData\TextAdventureData\obj\Debug\TextAdventureData.exe
+C:\Users\Admin\source\repos\TextAdventureData\TextAdventureData\obj\Debug\TextAdventureData.pdb
